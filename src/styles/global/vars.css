@@ -1,0 +1,20 @@
+:root {
+  --baseFontSize: 16px;
+  --baseLineHeight: 1.5;
+  --baseFont: "Helvetica Neue",
+  "Arial",
+  -apple-system,
+  BlinkMacSystemFont,
+  sans-serif;
+  --bebasFont: "Bebas Neue",
+  "Helvetica Neue",
+  "Arial",
+  -apple-system,
+  BlinkMacSystemFont,
+  sans-serif;
+  
+  --color-gray: #a6a6a6;  
+  --color-bg: #000;
+  --color-orange: #ff9501;
+  --color-white: #fdfdfd;
+}
